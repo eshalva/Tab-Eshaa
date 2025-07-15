@@ -85,8 +85,6 @@ Others include Appliances, Chairs, Art, Binders, etc.
 ## 👩‍💻 Author
 
 **Esha Alva**  
-Graduate Student, M.S. in Information Systems  
-📧 esalva@syr.edu  
 🌐 [LinkedIn](https://www.linkedin.com/in/esha-alva)
 
 ---
