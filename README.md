@@ -77,16 +77,6 @@ Others include Appliances, Chairs, Art, Binders, etc.
 
 ---
 
-## 📁 Repository Structure
-
-```
-📂 /images  
-  └── dashboard_screenshot.png  
-📄 README.md  
-```
-
----
-
 ## 🔗 Live Dashboard
 🔗 https://public.tableau.com/app/profile/esha.alva/viz/EshaAlva/Dashboard1?publish=yes
 
